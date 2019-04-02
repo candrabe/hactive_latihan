@@ -1,0 +1,30 @@
+body {
+    font-family: "montserrat";
+    font-size: 100%;
+    background-color: pink;
+    margin: 0px;
+}
+img {
+    height: 200px;
+    position: relative;
+}
+h1{
+    font-size: 30px;
+    color: darkorchid;
+}
+.subjudul{
+    color: #2196F3;
+    text-align: right;
+    font-family: "roboto";
+    font-size: 20px;
+    border-width: 1px;
+    border-style: dotted;
+    border-color: chocolate;
+
+}
+.menu{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(84, 160, 223);
+    padding: 20px;
+}
